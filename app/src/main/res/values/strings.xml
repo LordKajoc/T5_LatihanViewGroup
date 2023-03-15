@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Latihan Topic 5</string>
+    <string name="Email">Email</string>
+    <string name="Pass">Pass</string>
+    <string name="Button">Login</string>
+    <string name="TV1">No account yet? create one</string>
+    <string name="login">Login</string>
+    <string name="etusername">Username</string>
+    <string name="etpassword">Password</string>
+    <string name="tvregister">Register</string>
+    <string name="ultah">Selamat Ulang Tahun Bang MEssi!!!</string>
+    <string name="dari">From Kajoc</string>
+</resources>
